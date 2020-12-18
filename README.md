@@ -1,2 +1,2 @@
 # DiscordJsBot
-Discord bot code for a discord server.
+Discord bot code for a discord server with Heroku hosting.
